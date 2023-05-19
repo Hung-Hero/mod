@@ -1,1 +1,1 @@
-HADES 01:sv.nrohades.com:14445:0,HADES 02:sv2.nrohades.com:14445:0,0,1
+HADES 01:sv.nrohades.com:14445:0,HADES 02:sv2.nrohades.com:14445:0,0,0
